@@ -13,7 +13,8 @@ const defaultConfig = {
     coins: [
         "bitcoin",
         "ethereum",
-        "ripple"
+        "litecoin",
+        "cobinhood"
     ]
 };
 
